@@ -1,0 +1,3 @@
+[workspace]
+resolver  = "3" 
+members = ["tiny-os-base", "tiny-os-portable"]
